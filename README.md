@@ -21,10 +21,10 @@ Bypass Waf
 ![image](https://user-images.githubusercontent.com/59002589/205910311-18a7d11a-1c46-407c-99cb-04781d8c5ad6.png)
 
 2. Xss Payloads Address:
-https://www.ddosi.org/xss.txt 9218
-![image](https://user-images.githubusercontent.com/59002589/205910891-e8e0811e-c333-446d-93cd-a319fecb65eb.png)
+https://drive.google.com/file/d/1u9drR_9PoTZZNQp6m0JaCGMK8LcbCT6C/view?usp=
+![image](https://user-images.githubusercontent.com/59002589/205926599-0115afa2-767f-4905-9350-e79aea15d163.png)
 
-3. Xss Project Address:
+3. Địa chỉ dự án Xss:
 
 A. [github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection]
 
