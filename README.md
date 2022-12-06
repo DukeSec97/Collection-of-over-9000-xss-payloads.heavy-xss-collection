@@ -46,6 +46,7 @@ J. OWASP XSS [https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_
 
 
 4. Precautions
+
 This article may not be updated in time, the xss code is updated every day, you can go to the following website to update it yourself.
 
 https://xss.js.org/
@@ -70,7 +71,11 @@ Cross-site scripting (XSS) cheat sheet
 
 portswigger.net/web-security/cross-site-scripting/cheat-sheet
 ![image](https://user-images.githubusercontent.com/59002589/205913538-90843c61-4777-4229-8570-2966764c5457.png)
+
  PDF download:
+ 
  Cross-site-scripting/cheat-sheet.pdf
+ 
  https://drive.google.com/file/d/1Q32AAqS-cKDHyjfjj1Cs-XYNPWkJcLIR/view?usp=share_link
+ 
  Thanks for watching !
