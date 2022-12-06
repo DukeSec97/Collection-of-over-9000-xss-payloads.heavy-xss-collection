@@ -14,7 +14,9 @@ Collection of over 9000 xss payloads | heavy xss collection
   
 1. XSS Vectors Cheat Sheet
 
-In order to avoid pop-up windows or unpredictable bugs, the xss code is not placed here. The xss payloads have all been replayed and placed in txt, which can be copied and pasted by yourself.In addition to regular xss, it also contains various payloads that bypass waf. bypass waf
+In order to avoid pop-up windows or unpredictable bugs, the xss code is not placed here. The xss payloads have all been replayed and placed in txt, which can be copied and pasted by yourself.In addition to regular xss, it also contains various payloads that bypass waf.
+
+Bypass Waf
 
 ![image](https://user-images.githubusercontent.com/59002589/205910311-18a7d11a-1c46-407c-99cb-04781d8c5ad6.png)
 
