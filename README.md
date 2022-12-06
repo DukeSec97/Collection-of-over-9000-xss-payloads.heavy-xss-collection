@@ -1,15 +1,15 @@
 # Collection-of-over-9000-xss-payloads.heavy-xss-collection
 Collection of over 9000 xss payloads | heavy xss collection
 
-1.Xss payloads
+1.XSS Vectors Cheat Sheet
 
-2.Xss payloads address
+2.Xss Payloads Address
 
-3.Xss project address
+3.Xss Project Address
 
 4.Precautions:
   -PDF download.
-  xss payloads
+  Xss Payloads
   
   
 1. XSS Vectors Cheat Sheet
@@ -18,11 +18,11 @@ In order to avoid pop-up windows or unpredictable bugs, the xss code is not plac
 
 ![image](https://user-images.githubusercontent.com/59002589/205910311-18a7d11a-1c46-407c-99cb-04781d8c5ad6.png)
 
-2. Xss payloads address:
+2. Xss Payloads Address:
 https://www.ddosi.org/xss.txt 9218
 ![image](https://user-images.githubusercontent.com/59002589/205910891-e8e0811e-c333-446d-93cd-a319fecb65eb.png)
 
-3. Xss project address:
+3. Xss Project Address:
 
 A. [github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection]
 
