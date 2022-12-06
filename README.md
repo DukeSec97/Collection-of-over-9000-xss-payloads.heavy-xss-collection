@@ -25,27 +25,45 @@ https://www.ddosi.org/xss.txt 9218
 3. Xss project address:
 
 A. [github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection]
+
 B. PORTSWIGGER XSS cheat sheet [https://portswigger.net/web-security/cross-site-scripting/cheat-sheet]
+
 C. HTML5 Security Cheatsheet [https://html5sec.org/]
+
 D. XSS Payloads Twitter [https://twitter.com/xsspayloads]
+
 E. AwesomeXSS [https://github.com/s0md3v/AwesomeXSS]
+
 F. Brutelogic Blog [http://brutelogic.com.br/blog/]
+
 G. XSS Cheat Sheet [https://leanpub.com/xss]
+
 H. Pgaijin66 XSS-Payloads [https://github.com/Pgaijin66/XSS-Payloads]
+
 I. Swisskyrepo Payloads All The Things [https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master]
+
 J. OWASP XSS [https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html]
+
 
 4. Precautions
 This article may not be updated in time, the xss code is updated every day, you can go to the following website to update it yourself.
 
 https://xss.js.org/
+
 https://xss.js.org/xss01.md
+
 https://xss.js.org/xss02.md
+
 https://xss.js.org/xss03.md
+
 https://xss.js.org/xss04.md
+
 https://xss.js.org/xss05.md
+
 github.com/evai1/PayloadFix/blob/master/XssPayload.txt
+
 gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45
+
 
 Copy and paste to the web page by yourself
 Cross-site scripting (XSS) cheat sheet
