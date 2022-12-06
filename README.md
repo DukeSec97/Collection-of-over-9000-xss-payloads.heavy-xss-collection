@@ -2,8 +2,11 @@
 Collection of over 9000 xss payloads | heavy xss collection
 
 1.Xss payloads
+
 2.Xss payloads address
+
 3.Xss project address
+
 4.Precautions:
   -PDF download.
   xss payloads
